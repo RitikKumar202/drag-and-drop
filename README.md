@@ -1,4 +1,5 @@
 
+
 # Drag and Drop
 
 
@@ -13,8 +14,15 @@ Clone the project
 Start the server
 
 ```bash
-  start index.js 
+  start index.html 
 ```
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/RitikKumar202/drag-and-drop/blob/ritik-kumar/screenshots/Screenshot%20(61).png?raw=true)
+
+![App Screenshot](https://github.com/RitikKumar202/drag-and-drop/blob/ritik-kumar/screenshots/Screenshot%20(62).png?raw=true)
 
 
 ## Tech Stack
